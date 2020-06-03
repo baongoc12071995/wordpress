@@ -1,0 +1,201 @@
+# Copyright (C) 2016 Pro Travel Blogs
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Travellator 1.4\n"
+"Report-Msgid-Bugs-To: http://protravelblogs.com/contact\n"
+"POT-Creation-Date: 2015-09-16 19:02:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Pro Travel Blogs <support@protravelblogs.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:41
+#: comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:44
+#: comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:45
+#: comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:96
+msgid "Your Message..."
+msgstr ""
+
+#: comments.php:101
+msgid "Your name *..."
+msgstr ""
+
+#: comments.php:105
+msgid "Your email *..."
+msgstr ""
+
+#: comments.php:109
+msgid "Your website..."
+msgstr ""
+
+#: footer.php:37
+#, php-format
+msgid "- Powered by"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:55
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:116
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:126
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:135
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:144
+msgid "Footer Three"
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: inc/template-tags.php:31
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:36
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:17
+#: template-parts/content-single.php:18
+#: template-parts/content.php:39
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:36
+#: template-parts/content-search.php:32
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-optional-pages.php:35
+#: template-parts/content-optional-pages.php:66
+#: template-parts/content-optional-pages.php:97
+#, php-format
+msgid "Read More"
+msgstr ""
+
+#: inc/widget.php:12
+msgid "Travellator Recent Post"
+msgstr ""
+
+#: inc/widget.php:13
+msgid "Your site's most recent Posts with thumbnail."
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "Link Color Option"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Home Page Features"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Display Slider"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Select Category:"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Slider Speed (milliseconds)"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Optional Pages"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Display Optional Pages"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Select first page"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Select second page"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Select third page"
+msgstr ""

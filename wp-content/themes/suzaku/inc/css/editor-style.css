@@ -1,0 +1,79 @@
+html { box-sizing: border-box; }
+
+* { box-sizing: inherit; }
+*:before, *:after { box-sizing: inherit; }
+
+body { background-color: #fefefe; color: #222; font-family: "Lora", "Georgia", serif; line-height: 1.617; text-rendering: optimizeLegibility; word-wrap: break-word; }
+
+a { color: #e34234; text-decoration: none; -webkit-transition: all 400ms ease-out; transition: all 400ms ease-out; }
+a:visited { color: #b22519; }
+a:hover, a:active, a:focus { color: #b22519; text-decoration: underline; }
+
+h1, h2, h3, h4, h5, h6 { font-family: "Fjalla One", "Helvetica Neue", "Helvetica", sans-serif; line-height: 1.33; margin: 0; }
+
+p { margin: 0 0 1.617em 0; }
+
+img, figure { margin: 0; max-width: 100%; height: auto; }
+
+blockquote { border-top: 1px solid #bbb; border-bottom: 1px solid #bbb; line-height: 1.4; margin: 1.617em 4.851em; padding: 0.8085em 0; }
+blockquote p { margin: 0 -3.234em; }
+blockquote cite { display: block; margin-top: 0.8085em; }
+
+table { border: 1px solid #bbb; margin: 0.8085em 0; }
+table tr { background-color: white; }
+table tr:nth-of-type(2n) { background-color: #f1f1f1; }
+table td, table th { border: 1px solid #bbb; padding: 5px 12px; }
+
+ul, ol { margin: 0.8085em 0; padding-left: 1.617em; }
+ul ul, ul ol, ol ul, ol ol { margin: 0; }
+
+dl { margin: 0.8085em 0; }
+dl dt { font-weight: bold; }
+dl dd { margin: 0 0 0.8085em 0; }
+
+abbr[title], acronym { border-bottom: 1px dashed #222; cursor: help; }
+
+code, kbd, tt { border: 1px solid #bbb; border-radius: 3px; font-family: "Inconsolata", "Courier New", monospace; font-size: 1em; padding: 2px; }
+
+kbd, tt { background-color: #222; color: #fefefe; }
+
+pre { font-family: "Inconsolata", "Courier New", monospace; }
+
+ins, var { background-color: yellow; padding: 2px; }
+
+embed, iframe, object { max-width: 100%; }
+
+.alignleft { display: inline; float: left; margin: 0 1.617em 1.617em 0; }
+
+.alignright { display: inline; float: right; margin: 0 0 1.617em 1.617em; }
+
+.aligncenter { clear: both; display: block; margin: 0 auto; }
+
+.wp-caption { margin-bottom: 0.8085em; max-width: 100%; }
+.wp-caption img[class*="wp-image-"] { display: block; margin-left: auto; margin-right: auto; }
+.wp-caption .wp-caption-text { font-size: 0.8em; font-style: italic; text-align: right; }
+
+.gallery { margin-bottom: 1.617em; }
+
+.gallery-caption { display: block; font-size: 0.8em; font-style: italic; line-height: 1.4; }
+
+.gallery-item { display: inline-block; margin-bottom: 0.8085em; text-align: center; vertical-align: top; width: 100%; }
+.gallery-columns-2 .gallery-item { max-width: 50%; }
+.gallery-columns-3 .gallery-item { max-width: 33.33333%; }
+.gallery-columns-4 .gallery-item { max-width: 25%; }
+.gallery-columns-5 .gallery-item { max-width: 20%; }
+.gallery-columns-6 .gallery-item { max-width: 16.66667%; }
+.gallery-columns-7 .gallery-item { max-width: 14.28571%; }
+.gallery-columns-8 .gallery-item { max-width: 12.5%; }
+.gallery-columns-9 .gallery-item { max-width: 11.11111%; }
+
+button, input[type="button"], input[type="submit"], input[type="reset"] { background-color: transparent; border: 1px solid #e34234; color: #e34234; padding: 5px 12px; -webkit-transition: all 400ms ease-out; transition: all 400ms ease-out; }
+button:hover, button:focus, input[type="button"]:hover, input[type="button"]:focus, input[type="submit"]:hover, input[type="submit"]:focus, input[type="reset"]:hover, input[type="reset"]:focus { background-color: #e34234; color: #fefefe; }
+
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="number"], input[type="tel"], input[type="range"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="color"] { border: 1px solid #bbb; padding: 6px 12px; /* a bit of extra padding for a better look when next to buttons */ }
+
+textarea { border: 1px solid #bbb; padding: 3px; }
+
+body#tinymce { padding: 0.8085em 0.539em; }
+
+/*# sourceMappingURL=editor-style.css.map */

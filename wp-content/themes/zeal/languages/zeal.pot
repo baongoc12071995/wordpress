@@ -1,0 +1,1320 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Zeal\n"
+"POT-Creation-Date: 2016-04-29 16:32-0400\n"
+"PO-Revision-Date: 2016-04-29 16:32-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:24
+msgid "Sorry, the page youre looking for is not available"
+msgstr ""
+
+#: category.php:24
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:43 comments.php:65
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:46 comments.php:68
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:47 comments.php:69
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr ""
+
+#: front-page.php:28 inc/customizer/panel-blog.php:6
+#: inc/customizer/panel-blog.php:26 inc/customizer/panel-homepage.php:157
+#: index.php:31
+msgid "Blog"
+msgstr ""
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:42
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:168 inc/customizer/panel-post.php:124
+msgid "Allow Comments"
+msgstr ""
+
+#: inc/customizer.php:169 inc/customizer/panel-post.php:125
+msgid "No Comments"
+msgstr ""
+
+#: inc/customizer.php:181 inc/customizer/panel-jumbotron.php:125
+msgid "Use a background image"
+msgstr ""
+
+#: inc/customizer.php:182 inc/customizer/panel-jumbotron.php:126
+msgid "Use a solid color background"
+msgstr ""
+
+#: inc/customizer.php:193 inc/customizer/panel-post.php:37
+msgid "3:9"
+msgstr ""
+
+#: inc/customizer.php:194 inc/customizer/panel-post.php:38
+msgid "4:8"
+msgstr ""
+
+#: inc/customizer.php:195 inc/customizer/panel-post.php:39
+msgid "6:6"
+msgstr ""
+
+#: inc/customizer.php:207 inc/customizer/panel-jumbotron.php:63
+msgid "Apply Filter"
+msgstr ""
+
+#: inc/customizer.php:208 inc/customizer/panel-jumbotron.php:64
+msgid "No Filter"
+msgstr ""
+
+#: inc/customizer.php:221 inc/customizer/panel-general.php:35
+msgid "Use Site Title"
+msgstr ""
+
+#: inc/customizer.php:222 inc/customizer/panel-general.php:36
+msgid "Use Logo"
+msgstr ""
+
+#: inc/customizer.php:235 inc/customizer/panel-footer.php:93
+#: inc/customizer/panel-general.php:83 inc/customizer/panel-jumbotron.php:46
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:236 inc/customizer/panel-general.php:84
+#: inc/customizer/panel-jumbotron.php:47
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:249 inc/customizer/panel-footer.php:28
+#: inc/customizer/panel-footer.php:65 inc/customizer/panel-general.php:109
+#: inc/customizer/panel-homepage.php:36 inc/customizer/panel-homepage.php:87
+#: inc/customizer/panel-homepage.php:135 inc/customizer/panel-homepage.php:181
+msgid "Visible"
+msgstr ""
+
+#: inc/customizer.php:250 inc/customizer/panel-footer.php:29
+#: inc/customizer/panel-footer.php:66 inc/customizer/panel-general.php:110
+#: inc/customizer/panel-homepage.php:37 inc/customizer/panel-homepage.php:88
+#: inc/customizer/panel-homepage.php:136 inc/customizer/panel-homepage.php:182
+msgid "Hidden"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:7
+msgid "Appearance"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:8
+msgid "Customize your site colors, fonts and other appearance settings"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:16
+msgid "Template Width"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:24
+msgid "Skin Color"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:37
+msgid "Theme Skin Color"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:38
+msgid "Select the theme main color"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:40
+msgid "Green"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:41
+msgid "Teal"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:42
+#: inc/customizer/panel-appearance.php:43
+msgid "Blue"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:44
+msgid "Red"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:45
+msgid "Pink"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:53
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:67
+msgid "Background color or image ?"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:68
+msgid ""
+"Specify whether you would like a to use an image or a color for the "
+"background"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:70
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:71
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:81
+msgid "Site Background Color"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:96
+msgid "Site Background Image"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:97
+msgid "Select the image file that you want to use as the site background"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:104
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:117
+msgid "Primary Font"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:118
+msgid "Select the primary font of the theme"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:131
+msgid "Secondary Font"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:132
+msgid "Select the secondary font of the theme"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:144
+msgid "Font size of the menu"
+msgstr ""
+
+#: inc/customizer/panel-appearance.php:159
+msgid "Font size of the site body"
+msgstr ""
+
+#: inc/customizer/panel-blog.php:7
+msgid "Customize the blog template"
+msgstr ""
+
+#: inc/customizer/panel-blog.php:15 inc/customizer/panel-post.php:16
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/panel-blog.php:16
+msgid "Customize the layout of your blog template"
+msgstr ""
+
+#: inc/customizer/panel-blog.php:33
+msgid "Blog Section Heading"
+msgstr ""
+
+#: inc/customizer/panel-blog.php:45
+msgid "Post Title font size"
+msgstr ""
+
+#: inc/customizer/panel-blog.php:61
+msgid "Post Link font size"
+msgstr ""
+
+#: inc/customizer/panel-blog.php:69 inc/customizer/panel-homepage.php:54
+#: inc/customizer/panel-homepage.php:105
+#: template-parts/content-blog-2cols.php:30
+#: template-parts/content-blog-3cols.php:30
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/panel-blog.php:76
+msgid "Link text"
+msgstr ""
+
+#: inc/customizer/panel-footer.php:7
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/panel-footer.php:8
+msgid "Customize the theme Footer"
+msgstr ""
+
+#: inc/customizer/panel-footer.php:14 inc/zeal/zeal.php:78
+msgid "Footer A"
+msgstr ""
+
+#: inc/customizer/panel-footer.php:26
+msgid "Show Footer A Widget Area?"
+msgstr ""
+
+#: inc/customizer/panel-footer.php:38 inc/customizer/panel-homepage.php:145
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/panel-footer.php:42 inc/customizer/panel-homepage.php:149
+msgid ""
+"You can set an image as a background, or leave blank for default background "
+"color"
+msgstr ""
+
+#: inc/customizer/panel-footer.php:51 inc/zeal/zeal.php:88
+msgid "Footer B"
+msgstr ""
+
+#: inc/customizer/panel-footer.php:63
+msgid "Show Footer B Widget Area?"
+msgstr ""
+
+#: inc/customizer/panel-footer.php:73
+msgid "Footer copyright"
+msgstr ""
+
+#: inc/customizer/panel-footer.php:74
+msgid "Customize the branding in the footer"
+msgstr ""
+
+#: inc/customizer/panel-footer.php:79
+msgid "Footer Branding"
+msgstr ""
+
+#: inc/customizer/panel-footer.php:91
+msgid "\"Design by Smartcat\""
+msgstr ""
+
+#: inc/customizer/panel-footer.php:98
+msgid "Copyright Your Company Name"
+msgstr ""
+
+#: inc/customizer/panel-footer.php:105
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/panel-general.php:7
+msgid "Logo, Title & Favicon"
+msgstr ""
+
+#: inc/customizer/panel-general.php:8
+msgid "General settings for your site, such as branding, title, and tagline"
+msgstr ""
+
+#: inc/customizer/panel-general.php:18 inc/customizer/panel-general.php:50
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/panel-general.php:19
+msgid "Customize the contents of the site header"
+msgstr ""
+
+#: inc/customizer/panel-general.php:32
+msgid "Use Logo or Title in Header?"
+msgstr ""
+
+#: inc/customizer/panel-general.php:33
+msgid ""
+"Specify whether you would like a logo to appear instead of the site title"
+msgstr ""
+
+#: inc/customizer/panel-general.php:51
+msgid ""
+"If you would like to use a logo instead of the site title, you may upload it "
+"here"
+msgstr ""
+
+#: inc/customizer/panel-general.php:63
+msgid "Logo Height"
+msgstr ""
+
+#: inc/customizer/panel-general.php:64
+msgid ""
+"Adjust the height of your logo. Aspect ratio will be maintained automatically"
+msgstr ""
+
+#: inc/customizer/panel-general.php:80
+msgid "Show or Hide the Site Tagline?"
+msgstr ""
+
+#: inc/customizer/panel-general.php:81
+msgid "Specify whether the site tagline should appear below the title/logo"
+msgstr ""
+
+#: inc/customizer/panel-general.php:88
+msgid "Site Title, Tagline & Favicon"
+msgstr ""
+
+#: inc/customizer/panel-general.php:93
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/panel-general.php:94
+msgid "Customize the appearance of the search bar"
+msgstr ""
+
+#: inc/customizer/panel-general.php:107
+msgid "Show the search bar ?"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:7
+msgid "Frontpage"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:8
+msgid "Customize the appearance of your homepage"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:17
+msgid "Featured Post #1"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:18
+msgid ""
+"Customize the featured post that appears beneath the banner on your homepage"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:34
+msgid "Show Featured Post #1 ?"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:49 inc/customizer/panel-homepage.php:100
+msgid "Select the Featured Post"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:61 inc/customizer/panel-homepage.php:112
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:68
+msgid "Featured Post #2"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:69
+msgid "Customize the featured post that appears on your homepage"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:85
+msgid "Show Featured Post #2 ?"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:120 inc/zeal/zeal.php:68
+msgid "Homepage A"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:133
+msgid "Show Front Page CTA / Widget Area?"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:158
+msgid "Customize the portfolio section on your homepage"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:166
+msgid "Homepage Content"
+msgstr ""
+
+#: inc/customizer/panel-homepage.php:179
+msgid "Show the frontpage content ?"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:7
+msgid "Jumbotron"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:8
+msgid "Customize the appearance of the site Jumbotron"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:18 inc/customizer/panel-jumbotron.php:92
+msgid "Static Image"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:19
+msgid "Customize the large banner on your homepage"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:24
+msgid "Jumbotron Settings"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:25
+msgid "Adjust the slider speed & animation"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:42
+msgid "Display Jumbotron on Frontpage"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:60
+msgid "Colour Filter Toggle"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:61
+msgid ""
+"Specify whether you would like a tinted color filter displayed over the "
+"homepage banner"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:75
+msgid "Filter Colour"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:88
+msgid "Jumbotron Style"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:104
+msgid "Height"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:122
+msgid "Image or Color"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:123
+msgid ""
+"Specify whether you would like the background of the banner to be solid "
+"colour, a static background image or an image slider"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:139
+msgid "Banner Background Image"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:140
+msgid ""
+"Select the image file that you would like to use as the homepage banner "
+"background"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:151
+msgid "Banner Background Color"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: inc/customizer/panel-jumbotron.php:160 inc/zeal/zeal.php:573
+msgid "Zeal"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:167
+msgid "Banner Heading"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:179
+msgid "Banner Heading Font Size"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:180
+msgid "Adjust the font size of the banner heading in pixels"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:189 inc/zeal/zeal.php:492
+#: inc/zeal/zeal.php:574
+msgid "Designed by Smartcat"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:196
+msgid "Banner Tagline"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:208
+msgid "Banner Tagline Font Size"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:209
+msgid "Adjust the font size of the banner tagline in pixels"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:221 inc/zeal/zeal.php:586
+msgid "View Demo"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:228
+msgid "Button 1 - Text"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:240
+msgid "Button 1 - Link to Post / Page"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:253
+msgid "Button 1 - External URL"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:254
+msgid ""
+"When not blank, forces Button 1 to link to an external URL instead of a "
+"specified post/page"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:259 inc/zeal/zeal.php:592
+#: inc/zeal/zeal.php:599
+msgid "View Portfolio"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:266
+msgid "Button 2 - Text"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:278
+msgid "Button 2 - Link to Post / Page"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:291
+msgid "Button 2 - External URL"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:292
+msgid ""
+"When not blank, forces Button 2 to link to an external URL instead of a "
+"specified post/page"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:303
+msgid "Buttons Font Size"
+msgstr ""
+
+#: inc/customizer/panel-jumbotron.php:317
+msgid "Banner Text Color"
+msgstr ""
+
+#: inc/customizer/panel-post.php:7
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/panel-post.php:8
+msgid "Customize the single post template"
+msgstr ""
+
+#: inc/customizer/panel-post.php:17
+msgid "Customize the layout of your post template"
+msgstr ""
+
+#: inc/customizer/panel-post.php:34
+msgid "Column Width Ratio ( Image:Content )"
+msgstr ""
+
+#: inc/customizer/panel-post.php:35
+msgid ""
+"Specify the width ratio for the image and content columns. The two column "
+"widths must add up to 12."
+msgstr ""
+
+#: inc/customizer/panel-post.php:51
+msgid "Turn Author display On / Off"
+msgstr ""
+
+#: inc/customizer/panel-post.php:53
+msgid "Show Author"
+msgstr ""
+
+#: inc/customizer/panel-post.php:54
+msgid "Do not show Author"
+msgstr ""
+
+#: inc/customizer/panel-post.php:66
+msgid "Turn Date display On / Off"
+msgstr ""
+
+#: inc/customizer/panel-post.php:68
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/customizer/panel-post.php:69
+msgid "Do not show Post Date"
+msgstr ""
+
+#: inc/customizer/panel-post.php:81
+msgid "Turn Category  display On / Off"
+msgstr ""
+
+#: inc/customizer/panel-post.php:83
+msgid "Show Post Categories"
+msgstr ""
+
+#: inc/customizer/panel-post.php:84
+msgid "Do not show Post Categories"
+msgstr ""
+
+#: inc/customizer/panel-post.php:96
+msgid "Turn Tags  display On / Off"
+msgstr ""
+
+#: inc/customizer/panel-post.php:98
+msgid "Show Post Tags"
+msgstr ""
+
+#: inc/customizer/panel-post.php:99
+msgid "Do not show Post Tags"
+msgstr ""
+
+#: inc/customizer/panel-post.php:107
+msgid "Comments"
+msgstr ""
+
+#: inc/customizer/panel-post.php:108
+msgid "Customize the commenting options on your site"
+msgstr ""
+
+#: inc/customizer/panel-post.php:121
+msgid "Turn Commenting On / Off"
+msgstr ""
+
+#: inc/customizer/panel-post.php:122
+msgid ""
+"Setting this to No Comments will also hide all existing comments. Affects "
+"all posts."
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:71 template-parts/content-page-home.php:23
+#: template-parts/content-page.php:36
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:399 inc/zeal/class.tgm.php:3021
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:400 inc/zeal/class.tgm.php:2824
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:521
+msgid "Update Required"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:820 inc/zeal/class.tgm.php:3430
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:927
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:927 inc/zeal/class.tgm.php:930
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:930
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:1108 inc/zeal/class.tgm.php:2820
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:1873
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2159
+msgid "Required"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2162
+msgid "Recommended"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2178
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2181
+msgid "External Source"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2184
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2201
+msgid "Not Installed"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2205
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2207
+msgid "Active"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2213
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2216
+msgid "Requires Update"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2219
+msgid "Update recommended"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2227
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2272
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:2275
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:2278
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:2281
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/zeal/class.tgm.php:2363
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2371
+msgid "Installed version:"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2379
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2391
+msgid "Available version:"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2414
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2428
+msgid "Plugin"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2429
+msgid "Source"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2430
+msgid "Type"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2434
+msgid "Version"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2435
+msgid "Status"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2483
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2487
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2492
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2562
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2595
+msgid "Install"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2601
+msgid "Update"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2604
+msgid "Activate"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2635
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2637
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2673
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2675
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2780
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:2806
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:3020
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:3354
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:3356
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:3357
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:3361
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:3362
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:3362 inc/zeal/class.tgm.php:3368
+msgid "Show Details"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:3362 inc/zeal/class.tgm.php:3368
+msgid "Hide Details"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:3363
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:3364
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/zeal/class.tgm.php:3367
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:3368
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:3369
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/zeal/class.tgm.php:3370
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/zeal/zeal.php:305 inc/zeal/zeal.php:346
+msgid "Select a Featured Post to Have it Displayed Here"
+msgstr ""
+
+#: inc/zeal/zeal.php:308 inc/zeal/zeal.php:349
+msgid ""
+"You may use the built in WordPress Customizer to modify which post appears "
+"here."
+msgstr ""
+
+#: inc/zeal/zeal.php:392
+msgid "Homepage A Widget"
+msgstr ""
+
+#: inc/zeal/zeal.php:395
+msgid ""
+"You can enable/disable this widget from Customizer - Frontpage - Homepage "
+"Widget A. You can also set the background image to your preference. This is "
+"a widget placeholder, and you can add any widget to it from Customizer - "
+"Widgets."
+msgstr ""
+
+#: inc/zeal/zeal.php:460
+msgid "Footer A Widget"
+msgstr ""
+
+#: inc/zeal/zeal.php:463
+msgid ""
+"You can enable/disable this widget from Customizer - Footer - Footer A. You "
+"can also set the background image to your preference. This is a widget "
+"placeholder, and you can add any widget to it from Customizer - Widgets."
+msgstr ""
+
+#: inc/zeal/zeal.php:496
+msgid "Copyright Your Company Name "
+msgstr ""
+
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: tag.php:24
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: template-parts/content-event.php:138 template-parts/content-news.php:93
+#: template-parts/content-page-home.php:12 template-parts/content-page.php:25
+#: template-parts/content-single.php:122
+#: template-parts/content-team-member.php:185 template-parts/content.php:34
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-news.php:67 template-parts/content-single.php:74
+msgid "DATE POSTED :"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-single.php:67
+msgid "AUTHOR :"
+msgstr ""
+
+#: template-parts/content-single.php:82
+msgid "CATEGORIES :"
+msgstr ""
+
+#: template-parts/content-single.php:96
+msgid "TAGS :"
+msgstr ""
+
+#: template-parts/content.php:27
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid ""
+"https://smartcatdesign.net/articles/zeal-a-premium-magazine-inspired-theme-"
+"for-wordpress/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A slick and stylish multi-purpose & responsive theme that you can use to "
+"easily deploy a pixel-perfect website with ease. Zeal is a beautiful theme "
+"that has been designed with content in mind. Zeal has tons of customization "
+"theme optiosn, including a Parallax Jumbotron with color filter option, "
+"featured posts, multiple widget areas, stunning parallax effects. It is user "
+"friendly and can help you build a full site quickly."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Smartcat"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://smartcatdesign.net"
+msgstr ""

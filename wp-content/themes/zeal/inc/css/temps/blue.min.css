@@ -1,0 +1,104 @@
+/* --------------- PRIMARY COLOR --------------- */
+
+button, input[type=button], 
+input[type=submit],
+div.row.homepage-cta-background,
+.row.no-cta-divider,
+div#comments-header-bar,
+.team-member-wrapper.event .secondary-button,
+.event-blog .event-post .event-details .secondary-button,
+.zeal-button{
+    background-color: #6AD4EC;
+}
+
+.camera_bar_cont span#pie_0{
+    background-color: #6AD4EC !important;
+}
+
+div#site-branding p,
+nav.main-nav ul#primary-menu > li.current-menu-item > a,
+nav.main-nav ul.slicknav_nav > li.current-menu-item > a,
+.main-navigation ul ul a:hover,
+section.featured-homepage-post div.click-through-arrow:hover h4,
+.blog-post-overlay p.post-meta a,
+a.blog-post-read-more,
+span.meta-value,
+div.single-post-left a,
+nav.post-navigation .nav-links a,
+div.comment-metadata a.comment-edit-link,
+div.reply a.comment-reply-link,
+div#respond p.logged-in-as a:last-child,
+.widget a,
+div.archive-page article a,
+.event-blog .event-post .event-details a,
+.event-blog .event-details .date,
+ul#zeal-testimonials .testimonial-content .fa.fa-quote-left,
+ul#zeal-testimonials .testimonial-author,
+.single-faq .faq-title,
+.zeal-contact-info span.fa,
+nav.comment-navigation a
+{
+    color: #6AD4EC;
+}
+
+div.single-post-meta {
+    border-top: 20px solid #6AD4EC;
+}
+
+nav.main-nav ul#primary-menu > li > ul.sub-menu,
+footer.site-footer > div.container > div.row {
+    border-top: 2px solid #6AD4EC;
+}
+
+header#masthead > div.container > div.row > div.col-sm-12,
+.single-page .single-page-wrapper h1,
+.diviver span{
+    border-bottom: 2px solid #6AD4EC;
+}
+
+nav.main-nav ul#primary-menu > li > ul.sub-menu > li > ul.sub-menu {
+    border-left: 1px solid #6AD4EC;
+}
+
+/* --------------- SECONDARY HIGHLIGHT COLOR --------------- */
+
+nav.main-nav ul#primary-menu > li.current-menu-item > a:hover,
+nav.main-nav a:hover,
+div.single-post-left a:hover,
+a.blog-post-read-more:hover,
+.blog-post-overlay p.post-meta a:hover
+{
+    color: #1DBEE2;
+}
+
+button:hover, input[type=button]:hover, input[type=submit]:hover, .zeal-button:hover {
+    background-color: #1DBEE2;
+}
+
+@media screen and (max-width: 991px) {
+    .slicknav_nav a:hover {
+        color: #1DBEE2 !important;
+    }
+}
+
+/* --------------- SINGLE TEAM MEMBER --------------- */
+
+.team-member-wrapper div.single-post-meta,
+div.team-member-wrapper,
+#single-team-member-social a:hover span.fa,
+div.team-member-wrapper .sc_team_skills .progress {
+    background-color: #6AD4EC;
+}
+
+div.team-member-wrapper h2.about-heading,
+div.team-member-wrapper .sc_team_posts .skills-title,
+.team-member-wrapper h1.entry-title,
+#single-team-member-social span.fa,
+div.team-member-wrapper .sc-team-member-posts a:hover,
+.team-member-wrapper .sc-tags .sc-single-tag { 
+	color: #6AD4EC;
+}
+
+.team-member-wrapper .sc-tags .sc-single-tag {
+    border: 2px solid #6AD4EC;
+}
